@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prantik97
 - 👀 I’m interested in deep dive into the coding world
 - 🌱 I’m currently learning Android Studio, java Script, PHP, Machine learning with Python etc. ;)
-- 💞️ I’m looking to collaborate on Give me suggesion
+- 💞️ I’m looking to collaborate on Give me suggestion
 - 📫 How to reach me prantikghosh97@gmail.com
 
 <!---
