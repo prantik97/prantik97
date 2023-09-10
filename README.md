@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prantik97
 - 👀 I’m interested in deep dive into the coding world
-- 🌱 I’m currently learning Android Studio, javaScript, PHP, Machine learning with Python etc. ;)
+- 🌱 I’m currently learning Full Stack Web Development, DSA in javaScript, PHP, Machine learning with Python etc. ;)
 - 💞️ Scifi Brainstroming projects
 - 📫 How to reach me prantikghosh97@gmail.com
 
